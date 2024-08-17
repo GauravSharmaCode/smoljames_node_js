@@ -1,0 +1,24 @@
+{
+  "name": "smoljames_node_js",
+  "version": "1.0.0",
+  "description": "NodeJS and ExpressJS Tutorial",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GauravSharmaCode/smoljames_node_js.git"
+  },
+  "keywords": [
+    "node",
+    "express",
+    "tutorial"
+  ],
+  "author": "Gaurav Sharma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GauravSharmaCode/smoljames_node_js/issues"
+  },
+  "homepage": "https://github.com/GauravSharmaCode/smoljames_node_js#readme"
+}
