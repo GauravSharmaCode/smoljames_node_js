@@ -1,7 +1,8 @@
-const express = require ('express')
+//<<<<<<<<<<<<<<  ✨ Codeium Command 🌟  >>>>>>>>>>>>>>>>
+const express = require('express')
+const port = process.env.PORT || 4000
 
 const app = express()
+app.listen(port, () => console.log(`Server started on port ${port}`))
 
-const PORT = 4000
-
-app.listen(PORT, () => console.log(`Server has started on port: ${PORT}`) )
+//<<<<<<<  9723f315-815a-44d5-8dc0-0589edfce6cb  >>>>>>>
